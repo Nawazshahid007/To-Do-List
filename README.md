@@ -30,3 +30,5 @@ This project helps users manage their daily tasks easily. It is built for practi
 ## 📫 Author
 
 - GitHub: https://github.com/Nawazshahid007
+- LinkedIn: https://www.linkedin.com/in/shahid-nawaz-b7664b3a4
+
