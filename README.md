@@ -1,13 +1,32 @@
-# My Project
+# 📝 To-Do List App
 
-This is a simple web project built using HTML, CSS, and JavaScript.
+A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript.
 
-## Features:
-- Add tasks
+---
+
+## 🚀 Features
+
+- Add new tasks
 - Delete tasks
-- Simple UI
+- Simple and clean UI
+- Easy to use
 
-## Tech Used:
+---
+
+## ⚒️ Tech Stack
+
 - HTML
 - CSS
 - JavaScript
+
+---
+
+## 💡 About Project
+
+This project helps users manage their daily tasks easily. It is built for practicing DOM manipulation and JavaScript logic.
+
+---
+
+## 📫 Author
+
+- GitHub: https://github.com/Nawazshahid007
