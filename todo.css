@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    height: auto;
+    width: 40vw;
+    background-color: blueviolet;
+    border-radius: 2rem;
+    padding: 20px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.header{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.addTask{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+#inputTask{
+    flex: 1;
+    padding: 15px;
+    border-radius: 0.7rem;
+    border: 2px solid black;
+    outline: none;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#inputTask:focus{
+    border: 2px solid black;
+    outline: none;
+}
+
+button{
+    padding: 10px;
+    border-radius: 0.7rem;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+    background-color: #4a0080;
+}
+#addTask{
+    padding: 14px;
+    border-radius: 0.7rem;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+    background-color: #4a0080;
+}
+.inputText{
+    margin-top: 20px;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    padding: 15px;
+}
+li{
+    display: flex;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+}
